@@ -1,0 +1,1 @@
+# Citrix-NetScaler-image-management
